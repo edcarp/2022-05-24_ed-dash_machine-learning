@@ -58,7 +58,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 **Introduction to Machine Learning with Python**
 
-This workshop comprises four half-day lessons on applied machine learning in Python using health data. Lessons take participants through a typical pipeline for prediction, covering key concepts in preparing data, training models, and evaluating performance. We introduce models including decision trees and neural networks and highlight key issues in their responsible use. Prior knowledge of Python (for example, gained through a Carpentries course) is beneficial, but not required.
+This workshop comprises four lessons on applied machine learning in Python using health data. Lessons take participants through a typical pipeline for prediction, covering key concepts in preparing data, training models, and evaluating performance. We introduce models including decision trees and neural networks and highlight key issues in their responsible use. Prior knowledge of Python (for example, gained through a Carpentries course) is beneficial, but not required.
 
 **Ed-DaSH**
 
